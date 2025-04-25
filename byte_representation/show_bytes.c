@@ -30,3 +30,5 @@ void test_show_bytes (int val)
 	show_pointer(pval);
 	show_unsigned_int(uival);
 }
+
+/*end*/

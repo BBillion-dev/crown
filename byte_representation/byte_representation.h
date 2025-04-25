@@ -21,6 +21,8 @@ void show_bytes (byte_pointer start, size_t len)
 *And are parameter type lists allowed for function invocatons?
 */
 
+/* check comment */
+
 void show_int (int x)
 { show_bytes((byte_pointer) &x, sizeof(int)); }
 
